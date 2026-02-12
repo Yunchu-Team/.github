@@ -12,7 +12,7 @@
 
 ### QiuLingYan（秋凌烟）
 
-Github：[QiuLingYan](https://github.com/Qiu-LingYan)
+Github：[Qiu-LingYan](https://github.com/Qiu-LingYan)
 
 角色：**Yunchu Team's Leader**
 
