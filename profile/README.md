@@ -26,7 +26,24 @@ Github：[QiuLingYan](https://github.com/Qiu-LingYan)
 
 爱好：听音乐
 
-参与Yunchu-Shop的代码贡献，是Yunchu-Shop的主要贡献者。
+- 参与Yunchu-Shop的代码贡献，是Yunchu-Shop的主要贡献者。
 
-### 未完待续...
+### 洝謧
+
+角色：**Deputy Leader @ Yunchu-Team**
+
+地区：中国，江苏省
+
+技术栈：C++
+
+- CCF CSP · Provincial Third Prize (Senior Group)
+
+### 迷雾
+
+角色：**Member**
+
+爱好：eSIM
+
+- eSIM enthusiast · self-taught, English-only docs
+
 
