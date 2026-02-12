@@ -2,7 +2,9 @@
 
 一群边缘开发者，刚刚开始。
 
-</div>---
+</div>
+
+---
 
 ⚡ 关于我们
 
@@ -57,7 +59,6 @@ CCF CSP · 省级三等奖（高级组）
 迷雾
 
 Member · Yunchu-Team
-📍 ——
 
 eSIM enthusiast
 自学 eSIM 技术，啃完整本英文规范。
