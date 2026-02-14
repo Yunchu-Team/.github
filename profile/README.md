@@ -55,6 +55,7 @@ Deputy Leader · Yunchu-Team
 📍 中国，江苏
 
 CCF CSP · 省级三等奖（高级组）
+
 安静，但代码不安静。
 
 技术栈
@@ -93,6 +94,7 @@ Yunchu-Shop
 ---
 
 <div align="center">我们不是天才，也不是正规军。
+    
 我们只是提早动手了几年。
 
 We build from the edge. And we're just getting started.
