@@ -52,6 +52,7 @@ Leader · Yunchu-Team
 洝謧
 
 Deputy Leader · Yunchu-Team
+
 📍 中国，江苏
 
 CCF CSP · 省级三等奖（高级组）
@@ -61,6 +62,18 @@ CCF CSP · 省级三等奖（高级组）
 技术栈
 
 · C++
+
+---
+
+SeaWave
+
+Member · Yunchu-Team
+
+📍 中国 福建
+
+CCF CSP · 二等奖
+
+爱好：音乐,Coding,想谈恋爱没谈成(bushi，神经网络
 
 ---
 
