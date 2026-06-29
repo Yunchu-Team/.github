@@ -72,22 +72,6 @@ CCF CSP · 二等奖
 
 ---
 
-迷雾
-
-Member · Yunchu-Team
-
-eSIM enthusiast
-
-自学 eSIM 技术，啃完整本英文规范。
-
-不是因为必须，是因为好奇。
-
-爱好
-
-eSIM · 通信协议 · 读英文文档（是真的读）
-
----
-
 🛠 项目
 
 Yunchu-Shop
